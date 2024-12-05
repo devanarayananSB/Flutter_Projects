@@ -1,7 +1,7 @@
 # **Synnefo Quiz**  
 Challenge your knowledge and compete in exciting quizzes with the power of Flutter!
 
-![MusicHub Banner](https://github.com/devanarayananSB/Music-App/blob/MusicApp/MUSIC123.jpg?raw=true)
+![MusicHub Banner](https://github.com/devanarayananSB/Quiz-App/blob/quizApp/HD-wallpaper-question-sign-question-mark-neon-glow-dark.jpg)
 ---
 
 ## **Features**  
