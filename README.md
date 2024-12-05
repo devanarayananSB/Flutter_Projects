@@ -1,16 +1,25 @@
-# quiz_app
+# **Synnefo Quiz**  
+Challenge your knowledge and compete in exciting quizzes with the power of Flutter!
 
-A new Flutter project.
+![MusicHub Banner](https://github.com/devanarayananSB/Music-App/blob/MusicApp/MUSIC123.jpg?raw=true)
+---
 
-## Getting Started
+## **Features**  
+- 🎯 **Interactive Quizzes**: Engage with dynamic and diverse quiz topics.  
+- 🏆 **Leaderboards**: Track your performance and compete with friends.  
+- 🚀 **Admin Dashboard**: Easily add or manage quizzes (Admin access only).  
+- 🌐 **Cross-Platform**: Available for Android and iOS devices.  
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## **Getting Started**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Follow these steps to set up and start using the Synnefo Quiz app.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### **1. Prerequisites**  
+- Install [Flutter](https://flutter.dev/docs/get-started/install).  
+- Use an editor like [Android Studio](https://developer.android.com/studio) or [VS Code](https://code.visualstudio.com/).  
+- Verify your Flutter setup:  
+
+  ```bash
+  flutter doctor
